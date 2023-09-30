@@ -1,7 +1,7 @@
 // built in functions 
 // os module
 
-const { log } = require('console')
+
 const os=require('os')
 
 // gives the user information
